@@ -22,5 +22,5 @@
         
         
 ## 参考文章
-    1. [数据仓库、数据湖、流批一体](https://zhuanlan.zhihu.com/p/141182199?from_voters_page=true)
-    2. [基于 Flink + Hive 构建流批一体准实时数仓](https://www.jianshu.com/p/4e728a8993ea)
+    1. [数据仓库、数据湖、流批一体] (https://zhuanlan.zhihu.com/p/141182199?from_voters_page=true)
+    2. [基于 Flink + Hive 构建流批一体准实时数仓] (https://www.jianshu.com/p/4e728a8993ea)
